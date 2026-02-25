@@ -82,7 +82,7 @@ CALCULATE(
 ## 🖼️ Prévia do Dashboard
 
 ### Página 1: Home
-![Home](Design/PG01%20-%20HOME.png)
+![Home](Design/PG01%20-%20HOME.jpg)
 
 ### Página 2: Operacional
 ![Operacional](Design/PG02%20-%20OPERACIONAL.png)
